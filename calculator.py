@@ -3,5 +3,5 @@ def add(a, b):
   return a+b
 def subtract(a, b):
   return a-b
-def say_hello():  
-    print("goodbye")
+def divide(a,b):
+  return a/b
